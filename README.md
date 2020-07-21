@@ -1,4 +1,4 @@
-### NLP-Codes
+# NLP-Codes
 Sample Codes for Quick Implementation
 
 ## Text-preprocessing
