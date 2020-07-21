@@ -12,3 +12,4 @@ This folder contains python quick codes for Text preprocessing samples. These co
 # NLU-Stanford
 
 Code implementations for Natural Language Understanding Course from Stanford (Free on YouTube as of 2020-07-21)
+In progress
