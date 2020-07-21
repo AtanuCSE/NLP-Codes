@@ -1,6 +1,6 @@
 This folder contains code implementations for Natural Language Understanding (NLU) course from Stanford University
 
-### (In progress)
+# (In progress)
 
 ## Datasets used:
 - [English]
@@ -22,7 +22,7 @@ This folder contains code implementations for Natural Language Understanding (NL
   
 ## File Desciptions:
 
-# NLU12Play_Similary
+### NLU12Play_Similary
 - Co-occurence matrix of custom dataset
 - Scaled Co-occurrence matrix of custom dataset
 - word * word matrix
