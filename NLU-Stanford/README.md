@@ -20,7 +20,7 @@ This folder contains code implementations for Natural Language Understanding (NL
 - [Bangla] 
   Random Facebook Comments
   
-## File Desciptions:
+## File Descriptions:
 
 ### NLU12Play_Similary
 - Co-occurence matrix of custom dataset
