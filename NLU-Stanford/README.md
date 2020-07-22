@@ -22,7 +22,7 @@ This folder contains code implementations for Natural Language Understanding (NL
   
 ## File Descriptions:
 
-### NLU12Play_Similary
+### NLUPlay12_Similary
 - Co-occurence matrix of custom dataset
 - Scaled Co-occurrence matrix of custom dataset
 - word * word matrix
@@ -33,5 +33,8 @@ This folder contains code implementations for Natural Language Understanding (NL
 - Observed-over-expected normalization
 - L2 Normalization
 - **Pointwise Mutual Information (PMI)**
+
+### NLUPlay13_WordVennVisualize
+- Venn Diagram for common words from sepatate datasets
 
 
