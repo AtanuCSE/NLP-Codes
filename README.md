@@ -24,3 +24,7 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 - Observed-over-expected normalization
 - L2 Normalization
 - Pointwise Mutual Information (PMI)
+
+## Word-Visualize
+
+- Venn Diagram for common words from sepatate datasets
