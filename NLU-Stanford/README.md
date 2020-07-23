@@ -1,4 +1,4 @@
-This folder contains code implementations for Natural Language Understanding (NLU) course from Stanford University
+This folder contains code implementations for Natural Language Understanding (NLU) course from Stanford University. However, it also contains codes that I tried along the journey.
 
 # (In progress)
 
@@ -36,5 +36,10 @@ This folder contains code implementations for Natural Language Understanding (NL
 
 ### NLUPlay13_WordVennVisualize
 - Venn Diagram for common words from sepatate datasets
+
+### NLUPlay14_TextSummaryGensim
+- Summary from Pandas. Gensim Library. TextRank Algorithm. https://github.com/RaRe-Technologies/gensim
+- Keyword Extraction. Gensim Library. TextRank Algorithm.
+
 
 
