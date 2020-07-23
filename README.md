@@ -29,5 +29,5 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 - Venn Diagram for common words from sepatate datasets
 
-## Text-Summerization
+## Text-Summary
 - Text summary from Pandas using Gensim library
