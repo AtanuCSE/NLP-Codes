@@ -31,3 +31,8 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 ## Text-Summary
 - Text summary from Pandas using Gensim library
+
+## Lemmatization
+- Using NLTK
+- Using SpaCy
+- Using Gensim
