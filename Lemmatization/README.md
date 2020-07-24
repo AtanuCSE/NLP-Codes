@@ -1,8 +1,8 @@
 # Lemmatization is a process to convert sentence into its root form.
 
 For example:
-Performs -> Perform
-Better -> Good
+- Performs -> Perform
+- Better -> Good
 
 It's better than Stemmer. Stemmer can turn "Better" to "Bett"
 
