@@ -36,3 +36,6 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 - Using NLTK
 - Using SpaCy
 - Using Gensim
+
+## Sentence-Boundary
+- Using pySBD (wrapper package of SpaCy)
