@@ -39,3 +39,8 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 ## Sentence-Boundary
 - Using pySBD (wrapper package of SpaCy)
+
+## Parts-of-Speech (PoS)
+- PoS Tagging using SpaCy
+- PoS Dependency Parsing using SpaCy
+- PoS Dependency Visualize using DisplayCy
