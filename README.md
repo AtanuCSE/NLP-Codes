@@ -44,3 +44,6 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 - PoS Tagging using SpaCy
 - PoS Dependency Parsing using SpaCy
 - PoS Dependency Visualize using DisplayCy
+
+## Emotion-Extraction
+- NRC Emotion Lexicon (Word-level emotion set to apply on sentences)
