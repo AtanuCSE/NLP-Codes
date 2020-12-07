@@ -8,3 +8,9 @@ Words are labeled as 0/1 based on ('anger', 'anticipation', 'disgust', 'fear', '
 
 These word-level emotion set is applied on sentences or pandas to get some idea about overall presence of emotion / polarity within word.
 
+## SentiUsingTextSlack
+
+Polarity (Pos, Neg) detection of string using TextSlack Library
+NLTK dependency, TextBlob Library
+https://github.com/AnkitRajSri/textslack
+
