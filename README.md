@@ -8,6 +8,8 @@ This folder contains python quick codes for Text preprocessing samples. These co
 - Removing punctuations
 - Removing emoji
 - Spelling correction using TextBlob
+- TextPreProcessingUsingTextSlack
+  - Text Preprocessing using TextSlack Library (NLTK, TextBlob https://github.com/AnkitRajSri/textslack)
 
 ## NLU-Stanford
 
@@ -47,3 +49,5 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 ## Emotion-Extraction
 - NRC Emotion Lexicon (Word-level emotion set to apply on sentences)
+- SentiUsingTextSlack.ipynb 
+  - Polarity (Pos Neg) using TextSlack Library (NLTK, Textblob https://github.com/AnkitRajSri/textslack)
