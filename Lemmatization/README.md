@@ -11,6 +11,7 @@ It's better than Stemmer. Stemmer can turn "Better" to "Bett"
 
 ## SpaCy lemmatization
   Can transform "Best" to "Good"
+  
   Parallel Lemmatization using **joblib** library
 
 ## Gensim lemmatization
