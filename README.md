@@ -39,6 +39,9 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 - Using SpaCy
 - Using Gensim
 
+## Stemming
+-NLTK Porter Stemmer
+
 ## Sentence-Boundary
 - Using pySBD (wrapper package of SpaCy)
 
