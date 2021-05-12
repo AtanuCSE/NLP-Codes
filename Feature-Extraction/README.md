@@ -1,6 +1,6 @@
-#Feature Extraction from Text
+# Feature Extraction from Text
 
-##CountVectorizer
+## CountVectorizer
 
 ## Tf-Idf Vectorizer
 - Word level
