@@ -54,3 +54,10 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 - NRC Emotion Lexicon (Word-level emotion set to apply on sentences)
 - SentiUsingTextSlack.ipynb 
   - Polarity (Pos Neg) using TextSlack Library (NLTK, Textblob https://github.com/AnkitRajSri/textslack)
+
+## Feature-Extraction
+- Count Vectorizer
+- Tf-Idf Vectorizer (word, ngram, character)
+
+## Text-Classification (Polarity / Bi-class)
+- Logistic Regression
