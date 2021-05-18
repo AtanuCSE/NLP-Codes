@@ -61,3 +61,6 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 ## Text-Classification (Polarity / Bi-class)
 - Logistic Regression
+
+## Similarities
+- Document by document cosine similarity (Could be modified for jaccard, dice, and so on.) using Fasttext and Spacy
