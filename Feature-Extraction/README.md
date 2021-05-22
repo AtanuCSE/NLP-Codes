@@ -1,8 +1,12 @@
 # Feature Extraction from Text
 
-## CountVectorizer
+## 01_Feature_Extraction.ipynb
 
-## Tf-Idf Vectorizer
-- Word level
-- ngram word level
-- character ngram level
+- CountVectorizer
+- Tf-Idf Vectorizer
+- Word level Tf-Idf
+- ngram word level Tf-Idf
+- character ngram level Tf-Idf
+
+## 14_Top_Term_Frequency.ipynb
+- Words with most counts across all classes
