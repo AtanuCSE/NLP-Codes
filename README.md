@@ -31,6 +31,7 @@ Code implementations for Natural Language Understanding Course from Stanford (Fr
 
 - Venn Diagram for common words from sepatate datasets
 - Word Cloud
+- Top Terms from a document (bi-class plot using Bokeh lirary and different metrices instead of word count)
 
 ## Text-Summary
 - Text summary from Pandas using Gensim library
