@@ -13,3 +13,7 @@
   Visualize top terms for bi-class. CDF and Hmean are used instead of only word count frequency.
   
   **Bokeh** library is used.
+  
+- 08_Tep_Term_ScaledFScore_ScatterText.ipynb
+
+  Find Top terms using Scaled F Score metric and plot using Scattertext library
